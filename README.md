@@ -61,17 +61,17 @@ cd your-chatbot-project
 ```bash
 python3 -m venv venv
 ```
-#for wwindows
+##### for windows
 ```
 venv\Scripts\activate
 ```
 
-# for linux\macOs
+##### for linux\macOs
 ```
 source venv/bin/activate
 
 ```
-# install depedencies
+##### install depedencies
 ```
 pip install -r requirements.txt
 ```
@@ -79,7 +79,7 @@ pip install -r requirements.txt
 ```
 python app.py
 ```
-#or
+### or
 ```
 python3 app.py
 ```
