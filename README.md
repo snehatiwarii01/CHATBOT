@@ -39,15 +39,13 @@ project/
 │── requirements.txt
 │── model/ # Downloaded model files here
 │── static/
-│ ├── style.css
-│ └── script.js
-│── templates/
-└── index.html
+  ├── index.html
+  └── script.js
 
 
 ---
 
-## 🔧 Installation
+##  Installation
 
 Follow these steps to run the project on your system.
 
