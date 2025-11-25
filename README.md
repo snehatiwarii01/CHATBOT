@@ -60,22 +60,26 @@ cd your-chatbot-project
 ### **2. Create virtual environment and requirements.txt installation.**
 ```bash
 python3 -m venv venv
-
+```
+#for wwindows
+```
 venv\Scripts\activate
 ```
-### for linux\macOs
+
+# for linux\macOs
 ```
 source venv/bin/activate
 
 ```
+# install depedencies
 ```
 pip install -r requirements.txt
 ```
-### Run the bot
+## Run the bot
 ```
 python app.py
 ```
-or
+#or
 ```
 python3 app.py
 ```
